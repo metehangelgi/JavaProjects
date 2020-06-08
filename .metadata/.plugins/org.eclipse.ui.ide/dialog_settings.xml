@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/metehangelgi/eclipse-workspace/dünya"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/metehangelgi/eclipse-workspace/dünya"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/quiz2Solution"/>
+			<item value="/Users/metehangelgi/Downloads/self_study_6"/>
+			<item value="/Users/metehangelgi/Downloads/ps6-solutions"/>
+			<item value="/Users/metehangelgi/Downloads/solutions_ps5"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/university"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/DS_Array2Solutions/HalfFaceImage"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/LEC23Solutions/Student"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/Comp130_Quiz4_F18"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/DS_StringTokenizer_solutions"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/Extra_EventDrivenPrg"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/DS_String"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/HW6aSolutions"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/HW7bSolutions"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/DS_ClassesObjects_solutions"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/DS_EventDrivenPrg_solutions"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/LEC26Solutions"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/LEC25Solutions"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/LEC23Solutions"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/DS_Array2Solutions"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="/Users/metehangelgi/eclipse-workspace/LEC15/NoVowels/novowels.pdf"/>
+			<item value="/Users/metehangelgi/eclipse-workspace/LEC03Solutions/RandomPainter/RandomPainter.w"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode/&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="420" key="DIALOG_X_ORIGIN"/>
+			<item value="105" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="528" key="DIALOG_HEIGHT"/>
+		<item value="93" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

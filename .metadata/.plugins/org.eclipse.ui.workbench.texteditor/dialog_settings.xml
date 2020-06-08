@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="484" key="DIALOG_X_ORIGIN"/>
+		<item value="328" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="userFrame.setSize" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="userFrame.setSize"/>
+			<item value="SolveButton"/>
+			<item value="System"/>
+			<item value="Z"/>
+			<item value="b ="/>
+			<item value="b"/>
+			<item value="BV"/>
+			<item value="cN"/>
+			<item value="NumVar"/>
+			<item value="NumCons"/>
+			<item value="double"/>
+			<item value="System.out.println"/>
+			<item value="Merge"/>
+			<item value="generate"/>
+			<item value="isPartitioned"/>
+		</list>
+		<list key="replacehistory">
+			<item value="NumNB"/>
+			<item value="NumBasic"/>
+			<item value="float"/>
+			<item value="System.out.println"/>
+			<item value="toLowerCase(Locale.ENGLISH)"/>
+			<item value="code"/>
+			<item value="car"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="290" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="349" key="DIALOG_HEIGHT"/>
+		<item value="1124" key="DIALOG_X_ORIGIN"/>
+		<item value="524" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

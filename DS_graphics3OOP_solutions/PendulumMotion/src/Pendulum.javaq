@@ -1,0 +1,23 @@
+import acm.graphics.*;
+import acm.util.RandomGenerator;
+
+public class Pendulum extends GCompound{
+	
+	private double theta;
+	private double length;
+	
+	private GOval weight;
+	private GLine rope;
+	private final double BALL_WIDTH = 10;
+	private final double BALL_HEIGHT = 10;
+	
+	private final double g = 10;
+			
+	public Pendulum(double thet, double len) {
+
+	}
+	
+	public void step(double t) {
+
+	}
+}

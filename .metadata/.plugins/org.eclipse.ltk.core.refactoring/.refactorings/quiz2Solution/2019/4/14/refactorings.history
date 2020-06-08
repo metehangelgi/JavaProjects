@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MutableString.java&apos; to &apos;quiz2Work/src/book&apos;&#x0A;- Original project: &apos;quiz2Solution&apos;&#x0A;- Destination element: &apos;quiz2Work/src/book&apos;&#x0A;- Original element: &apos;ques1.MutableString.java&apos;" description="Copy compilation unit" destination="=quiz2Work/src&lt;book" element1="/src&lt;ques1{MutableString.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1554236635574" units="1" version="1.0"/>
+</session>
